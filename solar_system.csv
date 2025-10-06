@@ -1,0 +1,9 @@
+﻿planet,mass,radius,distance
+Mercury ,3.28E+23,   2439 ,   0.4
+Venus ,   4.87E+24,   6052 ,   0.7
+Earth ,   5.97E+24,   6380 ,   1
+Mars ,   6.3E+23 ,   3400 ,   1.5
+Jupiter ,   1.89E27,   71500 ,   5.2
+Saturn ,   5.68E26 ,   60300 ,   9.5
+Uranus ,   8.68E25 ,   25500 ,   19
+Neptune ,   1.02E26 ,   24800 ,   30
